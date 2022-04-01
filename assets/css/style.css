@@ -1,0 +1,27 @@
+body { 
+  padding-top: 70px; 
+}
+
+.navbar-custom{
+    background-color: #28A745;
+    opacity: 1;    
+    font-family: 'Open Sans', sans-serif;
+    color:#FFFFFF;
+}
+.navbar-brand{
+    margin-left: 119px;
+}
+.navbar-nav {
+    margin-right: 118px;
+  }
+.navbar-nav > li{
+    padding-left:10px;
+  }
+
+  footer {
+    background-color: #28A745;
+    opacity: 1;   
+  }
+  h6{
+    text-align-last: center;
+  }
