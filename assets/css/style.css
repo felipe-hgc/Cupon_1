@@ -1,27 +1,56 @@
 body { 
-  padding-top: 70px; 
-}
+    padding-top: 70px; 
+  }
+  
+  .navbar-custom{
+      background-color: #28A745;
+      opacity: 1;    
+      font-family: 'Roboto', sans-serif;
+      color:#FFFFFF;
+  }
+  .navbar-brand{
+      margin-left: 119px;
+  }
+  .navbar-nav {
+      margin-right: 118px;
+    }
+  .navbar-nav > li{
+      padding-left:10px;
+    }
+  
+    footer {
+      background-color: #28A745;
+      opacity: 1;   
+    }
 
-.navbar-custom{
-    background-color: #28A745;
-    opacity: 1;    
-    font-family: 'Open Sans', sans-serif;
-    color:#FFFFFF;
-}
-.navbar-brand{
-    margin-left: 119px;
-}
-.navbar-nav {
-    margin-right: 118px;
-  }
-.navbar-nav > li{
-    padding-left:10px;
-  }
+    h5.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20pt;
+    color: #212529;
+    }
 
-  footer {
-    background-color: #28A745;
-    opacity: 1;   
-  }
-  h6{
-    text-align-last: center;
-  }
+    #Nombre {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        font-size: 16pt; 
+        color: #707070;
+    }
+
+    #Direccion {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        font-size: 13pt; 
+        color: #707070;
+    }
+
+    h6{
+      text-align-last: center;
+    }
+
+    #finalcontainer {
+        margin-top: 2em;
+        width: 100%;
+        height: 10em;
+        background-color: #FFFFFF;
+    }
